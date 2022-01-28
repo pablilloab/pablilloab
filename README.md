@@ -26,12 +26,12 @@ Love Programming!
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="js-logo">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html-logo">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css-logo">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass-logo">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python-logo">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux-logo">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="js-logo" width="40" heigth="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html-logo" width="40" heigth="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css-logo" width="40" heigth="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass-logo" width="40" heigth="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python-logo" width="40" heigth="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux-logo" width="40" heigth="40">
   
 </div>
 
